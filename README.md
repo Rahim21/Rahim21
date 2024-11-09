@@ -137,9 +137,11 @@
 
 ###
 
+<img src="https://imgur.com/rilHVxA.png"/>
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Rahim21/Rahim21/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Rahim21/Rahim21/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
